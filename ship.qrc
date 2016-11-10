@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>FTLShip.jpg</file>
+        <file>FTLShipA.jpg</file>
+    </qresource>
+</RCC>
